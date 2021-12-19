@@ -1,7 +1,7 @@
-<?php 
-class Model_latihan1 extends CI_Model
+<?php
+class model_latihan1 extends CI_Model
 {
-	//variabel menampung nilai
+    //variabel menampung nilai
 	public $nilai1, $nilai2, $nilai3;
 	//method penjumlahan
 	public function jumlah($nil1 = null, $nil2 = null){

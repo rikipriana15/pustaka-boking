@@ -62,4 +62,4 @@ class Tokosepatu extends CI_Controller
 		}
     }
 }
-} 
+}
