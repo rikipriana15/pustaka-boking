@@ -4,7 +4,7 @@ class controller_latihan1 extends CI_Controller
 
     public function index ()
     {
-        echo "Selamat Datang di Joy's Web...Selamat Belajar Web Programming";
+        echo "Selamat Datang di riq's Web...Selamat Belajar Web Programming";
 
     }
 
